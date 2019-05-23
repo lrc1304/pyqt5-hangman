@@ -1,0 +1,6 @@
+keyboard
+monitor
+computer
+light
+water
+book
